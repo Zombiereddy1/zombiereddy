@@ -1,10 +1,10 @@
 {
-    "name": "Save restricted content bot",
-    "description": "Telegram bot to save restricted content.",
+    "name": "zombiereddy2",
+    "description": "",
     "logo": "",
     "keywords": [
         "telegram",
-        "Save restricted content",
+        "zombiereddy2",
         "bot"
     ],
     "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
@@ -13,15 +13,15 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "bc575fde71abbc7081f1080f70b2131a"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "22745522"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6657706793:AAGHwqOO-gPJkToMbpKjV2Wf820wHtdEUfw"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
